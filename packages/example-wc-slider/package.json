@@ -3,7 +3,7 @@
   "description": "Webcomponent example-wc-slider following open-wc recommendations",
   "license": "MIT",
   "author": "example-wc-slider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "analyze": "cem analyze --litelement",
     "start": "tsc && concurrently -k -r \"tsc --watch --preserveWatchOutput\" \"wds\""
